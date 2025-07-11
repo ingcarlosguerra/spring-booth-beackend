@@ -1,0 +1,7 @@
+pruebatecnica\server\api\controller\UserController.class
+pruebatecnica\server\api\model\User.class
+pruebatecnica\server\ServerApplication.class
+pruebatecnica\server\api\exception\ValidationExceptionHandler.class
+pruebatecnica\server\api\dto\ApiResponse.class
+pruebatecnica\server\service\UserService.class
+pruebatecnica\server\api\dto\UserRequest.class
